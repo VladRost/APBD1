@@ -7,4 +7,9 @@
         int a = 123;
         string a3 = "dsag";
     }
+
+    public static void CalculateAvg(int[] arr)
+    {
+        
+    }
 }
