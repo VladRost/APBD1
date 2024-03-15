@@ -4,7 +4,7 @@
     {
         Console.WriteLine("Hello, World!");
         int g = 19;
-        int a = 123;
+        float a = 32154;
         int[] arr = {1,2,3,412,23};
         Console.WriteLine(FindMax(arr));
     }
