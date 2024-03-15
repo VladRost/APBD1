@@ -4,6 +4,6 @@
     {
         Console.WriteLine("Hello, World!");
         int g = 19;
-        int a = 123;
+        string a = "dgdsfg";
     }
 }
